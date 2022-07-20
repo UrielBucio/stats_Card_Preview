@@ -100,24 +100,3 @@ h1 {
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
-@media (max-width: 900px) {
-    .container {
-        flex-flow: column nowrap;
-        height: auto;
-        width: 90%;
-    }
-    .container_info {
-        text-align: center;
-        order: 2;
-    }
-    .stadistic {
-        flex-flow: column nowrap;
-    }
-    .container_image {
-        background-image: url(../src/img/image-header-mobile.jpg);
-        border-radius: 10px 10px 0 0;
-        height: 300px;
-        order: 1;
-        width: 100%;
-    }
-}
