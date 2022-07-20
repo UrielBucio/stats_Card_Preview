@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/stats-card-preview-responsive-lhIZkyRbfv)
 - Live Site URL: [Live Site](https://stats-preview-card-hub.netlify.app/)
 
 ## My process
