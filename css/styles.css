@@ -23,7 +23,7 @@ body {
     font-size: 15px;
     flex-flow: column nowrap;
     font-family: var(--fontInter);
-    height: 100vh;
+    min-height: 100vh;
     justify-content: center;
 }
 .container {
@@ -37,7 +37,7 @@ body {
     width: 76%;
 }
 .container_info {
-    padding: 4.5rem;
+    padding: 3.5rem;
     width: 100%;
 }
 .container_info strong{
